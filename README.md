@@ -1,11 +1,11 @@
 Task line
 Task 1 (10 points)
-Create a class called KovetelmenySamito, which contains a static total
-function called, which returns a text and waits for the completion of Programming I. by a student
-in the following form: 1. thesis evaluated (double), 2. thesis evaluated (double),
-3rd paper (double), 4th paper (double), zh (double)
+Create a class called "KovetelmenySzamito" that contains a static function named "teljesites"
+, which returns a text and waits for the completion of Programming I. by a student
+in the following form: 1st essay score (double), 2nd essay score (double),
+Dissertation 3 score (double), Dissertation 4 score (double), zh score (double),
 and the number of completed homework assignments (integer).
 The function can return two values:
-• "successful": the student has fulfilled the requirements of the course and is at least sufficient
+• "successful": if the student has fulfilled the conditions of the course and is at least sufficient
 get a ticket.
-• "unsuccessful": meanwhile, the student did not complete the course.
+• "unsuccessful": if the student did not complete the course.
